@@ -2,12 +2,6 @@
 #First game I have ever created in python and that wasn't a school project.
 
 
-
-
-
-
-
-
 import pygame
 import math
 
