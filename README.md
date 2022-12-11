@@ -24,7 +24,6 @@ ice = 0
 icev1 = 0
 
 while True:
-	
 	#Sky
 	screen.fill((0,0,200))
 	
