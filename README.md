@@ -1,6 +1,5 @@
 # Game1
-#First game I have ever created in python and that wasn't a school project.
-
+# First game I have ever created in python and that wasn't a school project.
 
 import pygame
 import math
@@ -374,8 +373,6 @@ while True:
 
 
 	pygame.display.update()
-
-
 
 while True:
 	for event in pygame.event.get():
